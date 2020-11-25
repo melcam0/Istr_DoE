@@ -1,10 +1,12 @@
 name: "Doe_setup"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "DoE setUp"
   left:
-    - text: "Home"
+    - text: "Ita"
       href: index.html
+    - text: "En"
+      href: en.html  
 output:
   html_document:
     theme: cerulean 
