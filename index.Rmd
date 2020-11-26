@@ -52,7 +52,7 @@ Sul desktop (se hai scelto di creare un collegamento all'applicazione), dovrebbe
 
 ![](fig8.png){width="100"}
 
-## 3. **Disinstallare l' applicazione**
+## 3. **Disinstallare l'applicazione**
 
 DoE può essere disinstallato come qualsiasi altra applicazione Windows. In alternativa, per eseguire la disinstallazione nella cartella DoE creata in C: \\ (o nella directory scelta per l'installazione), è presente un'icona unis000.exe. Fare doppio clic sull'icona e verrà avviata la disinstallazione. Una volta che DoE è stato disistallato, dovrebbe apparire un messaggio simile a quello riportato di seguito.
 
