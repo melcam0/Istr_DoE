@@ -4,13 +4,13 @@ title: 'Scaricare il software "DoE"'
 
 L'applicazione eseguibile "DoE.exe" installerà il software open-source R, insieme a tutti i pacchetti necessari per l'esecuzione del software denominato "DoE" che utilizzeremo durante gli esercizi.
 
-## 1. **Nota preliminare**
+## 1. Nota preliminare
 
 La versione eseguibile del programma DoE.exe è in versione beta. Vi preghiamo quindi di provarlo e di segnalare eventuali bug o errori (ad esempio, mancanza di libreria, ecc...) ai seguenti indirizzi: [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it), [Camillo Melzi](mailto:camillonelzin@gmail.com).
 
 Purtroppo, l'eseguibile attualmente funziona solo per Windows.
 
-## 2. **Scaricare l'eseguibile**
+## 2. Scaricare l'eseguibile
 
 Scaricare il file [setup\_DoE.exe](https://drive.google.com/file/d/1TtNdbMsPZkAgbCg6f1zF_1Dcjbt2J5KD/view?usp=sharing) ed avviare l'eseguibile con doppio click sull'icona
 
@@ -52,7 +52,7 @@ Sul desktop (se hai scelto di creare un collegamento all'applicazione), dovrebbe
 
 ![](fig8.png){width="100"}
 
-## 3. **Disinstallare l'applicazione**
+## 3. Disinstallare l'applicazione
 
 DoE può essere disinstallato come qualsiasi altra applicazione Windows. In alternativa, per eseguire la disinstallazione nella cartella DoE creata in C: \\ (o nella directory scelta per l'installazione), è presente un'icona unis000.exe. Fare doppio clic sull'icona e verrà avviata la disinstallazione. Una volta che DoE è stato disistallato, dovrebbe apparire un messaggio simile a quello riportato di seguito.
 

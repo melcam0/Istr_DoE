@@ -2,7 +2,7 @@ name: "Doe_setup"
 output_dir: "."
 navbar:
   title: "DoE setUp"
-  left:
+  right:
     - text: "Ita"
       href: index.html
     - text: "En"
