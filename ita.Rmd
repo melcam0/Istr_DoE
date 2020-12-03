@@ -1,0 +1,66 @@
+---
+title: 'Scaricare il software "DoE"'
+output:
+   html_document:
+    theme: united
+    highlight: pygments
+    toc: true
+    toc_float:
+      collapsed: false
+---
+
+L'applicazione eseguibile "DoE.exe" installerà il software open-source R, insieme a tutti i pacchetti necessari per l'esecuzione del software denominato "DoE" che utilizzeremo durante gli esercizi.
+
+## 1. Nota preliminare
+
+La versione eseguibile del programma DoE.exe è in versione beta. Vi preghiamo quindi di provarlo e di segnalare eventuali bug o errori (ad esempio, mancanza di libreria, ecc...) ai seguenti indirizzi: [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it), [Camillo Melzi](mailto:camillonelzin@gmail.com).
+
+Purtroppo, l'eseguibile attualmente funziona solo per Windows.
+
+## 2. Scaricare l'eseguibile
+
+Scaricare il file [setup\_DoE.exe](https://drive.google.com/file/d/1TtNdbMsPZkAgbCg6f1zF_1Dcjbt2J5KD/view?usp=sharing) ed avviare l'eseguibile con doppio click sull'icona
+
+![](doe.ico){width="85"}
+
+Se necessario, consentire l'installazione di app di autore / fonte sconosciuti, quindi accettare il "Contratto di licenza" e fare clic sul pulsante *Avanti* . Il software che forniamo gratuitamente è realizzato internamente. Nessun antivirus ha raccolto informazioni su di esso fino ad oggi. Pertanto il software antivirus ti avviserà dei pericoli derivanti dall'installazione di software da fonti sconosciute.
+
+![](fig1.png){width="420"}
+
+Fare di nuovo clic sul pulsante Avanti nella finestra
+
+![](fig2.png){width="420"}
+
+Seleziona la directory in cui installare il programma (consiglio di mantenere C: \\ Attenzione!! non utilizzare le directory Program Files o Program Files (x86)).
+
+Fare clic sul pulsante Avanti nella finestra successiva
+
+![](fig3.png){width="420"}
+
+Scegli se creare un collegamento all'applicazione sul desktop (consigliato)
+
+![](fig4.png){width="420"}
+
+Quindi premere il pulsante Installa e poi Avanti nelle finestre successive
+
+![](fig5.png){width="420"}
+
+![](fig6.png){width="420"}
+
+Infine, fai clic sul pulsante Fine (consiglio di lasciare flag su Launch DoE)
+
+\
+
+![](fig7.png){width="420"}
+
+Dopo che le librerie necessarie sono state caricate (la prima volta potrebbe richiedere del tempo), l'applicazione si apre.
+
+Sul desktop (se hai scelto di creare un collegamento all'applicazione), dovrebbero esserci l' icone di collegamento
+
+![](fig8.png){width="100"}
+
+## 3. Disinstallare l'applicazione
+
+DoE può essere disinstallato come qualsiasi altra applicazione Windows. In alternativa, per eseguire la disinstallazione nella cartella DoE creata in C: \\ (o nella directory scelta per l'installazione), è presente un'icona unis000.exe. Fare doppio clic sull'icona e verrà avviata la disinstallazione. Una volta che DoE è stato disistallato, dovrebbe apparire un messaggio simile a quello riportato di seguito.
+
+![](fig9.png)

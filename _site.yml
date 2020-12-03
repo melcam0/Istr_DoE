@@ -4,9 +4,14 @@ navbar:
   title: "DoE setUp"
   right:
     - text: "Ita"
-      href: index.html
+      href: Ita.html
     - text: "En"
       href: en.html  
 output:
-  html_document:
-    theme: cerulean 
+   html_document:
+    theme: united
+    #theme: flatly
+    highlight: pygments
+
+    
+

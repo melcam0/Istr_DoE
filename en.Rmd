@@ -1,5 +1,12 @@
 ---
 title: 'Download the software named "DoE"'
+output:
+   html_document:
+    theme: flatly
+    highlight: pygments
+    toc: true
+    toc_float:
+      collapsed: false
 ---
 
 The executable application "DoE.exe" will install the open-source software R, together with all the packages necessary for running the software named "DoE" that we will use during the exercises.
