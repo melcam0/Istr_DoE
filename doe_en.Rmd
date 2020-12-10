@@ -2,7 +2,7 @@
 title: 'Download the software named "DoE"'
 output:
    html_document:
-    theme: flatly
+    theme: united
     highlight: pygments
     toc: true
     toc_float:
@@ -21,45 +21,45 @@ Regrettably, the executable currently only works for Windows.
 
 Download the file [setup_DoE.exe](https://drive.google.com/file/d/1TtNdbMsPZkAgbCg6f1zF_1Dcjbt2J5KD/view?usp=sharing) then run the executable by mouse double-click  on the icon: 
 
-![](doe.ico){width="85"}
+![](Figure/doe.ico){width="85"}
 
 If necessary, allow installing apps by unknown author/source, then accept the "License Agreement" and click on the *Next* button. The software that we are providing for free is made in-house. No antivirus collected information on it as of today. Therefore antivirus software will warn you about the dangers of installing software from unknown sources.
 
-![](fig1.png){width="420"}
+![](Figure/fig1.png){width="420"}
 
 Click the Next button again in the window
 
-![](fig2.png){width="420"}
+![](Figure/fig2.png){width="420"}
 
 Select the directory to install the program (I recommend keeping C: \\ 
 Warning !! do not use the Program Files or Program Files (x86) directories).
 
 Click on the Next button in the next window
 
-![](fig3.png){width="420"}
+![](Figure/fig3.png){width="420"}
 
 Choose whether to create a shortcut to the application on the desktop (recommended)
 
-![](fig4.png){width="420"}
+![](Figure/fig4.png){width="420"}
 
 Then press the Install button and then Next in the subsequent windows
 
-![](fig5.png){width="420"}
+![](Figure/fig5.png){width="420"}
 
-![](fig6.png){width="420"}
+![](Figure/fig6.png){width="420"}
 
 Finally, click on the Finish button (I recommend leaving the flag on Launch DoE )
 
-![](fig7.png){width="420"}
+![](Figure/fig7.png){width="420"}
 
 Once the necessary libraries have been loaded (the first time it may take some time), the application opens.
 
 On the desktop (if you have chosen to create a shortcut to the application), there should be the shortcut icon
 
-![](fig8.png){width="100"}
+![](Figure/fig8.png){width="100"}
 
 ## 3. Uninstall application
 
 DoE can be uninstalled like any other Windows application. Alternatively, to uninstall in the DoE folder created in C: \\ (or in the directory chosen for installation), there is a unis000.exe icon. Double click on the icon and uninstallation starts. Once DoE has been unistalled, a message similar to the one reported below should appear.
 
-![](fig9.png)
+![](Figure/fig9.png)

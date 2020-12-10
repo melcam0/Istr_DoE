@@ -1,17 +1,28 @@
 name: "Doe_setup"
 output_dir: "."
 navbar:
-  title: "DoE setUp"
+  title: "App setUp"
   right:
-    - text: "Ita"
-      href: Ita.html
-    - text: "En"
-      href: en.html  
+    - text: "MODUNIVAR"
+      href: modunivar.html
+    - text: "DoE"
+      menu:
+      - text: "Ita"
+        href: doe_ita.html
+      - text: "En"
+        href: doe_en.html
+    - text: "CAT"
+      href: cat.html 
+
+      
+
 output:
    html_document:
     theme: united
     #theme: flatly
+    #theme: cerulean
     highlight: pygments
+
 
     
 

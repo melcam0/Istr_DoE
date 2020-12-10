@@ -1,18 +1,14 @@
+---
+title: ''
+output:
+   html_document:
+    theme: united
+---
 
-   
-   
-   
 <p align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <img src="doe.ico">
+
+<br> <br> <br> <br> <br> <br> <br> <img src="Figure/Immagine.png"/>
+
 </p>
-
-
 
 
