@@ -22,7 +22,7 @@ Purtroppo, l'eseguibile attualmente funziona solo per Windows.
 
 Scaricare il file [setup\_DoE.exe](https://drive.google.com/file/d/1TtNdbMsPZkAgbCg6f1zF_1Dcjbt2J5KD/view?usp=sharing) ed avviare l'eseguibile con doppio click sull'icona
 
-![](Figure/doe.ico){width="85"}
+![](Figure/doe_exe.png){width="85"}
 
 Se necessario, consentire l'installazione di app di autore / fonte sconosciuti, quindi accettare il "Contratto di licenza" e fare clic sul pulsante *Avanti* . Il software che forniamo gratuitamente è realizzato internamente. Nessun antivirus ha raccolto informazioni su di esso fino ad oggi. Pertanto il software antivirus ti avviserà dei pericoli derivanti dall'installazione di software da fonti sconosciute.
 
