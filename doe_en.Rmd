@@ -19,7 +19,7 @@ Regrettably, the executable currently only works for Windows.
 
 ## 2. Download the executable
 
-Download the file [setup_DoE.exe](https://drive.google.com/file/d/1cGdES0TLqMHN4E4cGvr_TvCaM-1VVLLo/view?usp=sharing) then run the executable by mouse double-click  on the icon: 
+Download the file [setup_DoE.exe](https://drive.google.com/file/d/1jZdLZMs4vtvn8Btkr2vMmCEums4O95GC/view?usp=sharing) then run the executable by mouse double-click  on the icon: 
 
 ![](Figure/doe_exe.png){width="85"}
 
