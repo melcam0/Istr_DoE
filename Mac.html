@@ -11,7 +11,7 @@
 
 
 
-<title>Download the software named “DoE”</title>
+<title>Mac.utf8</title>
 
 <script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -20,9 +20,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
@@ -247,75 +244,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
-
-</style>
-
-
 
 </head>
 
@@ -323,16 +251,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -385,49 +303,36 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Download the software named “DoE”</h1>
 
 </div>
 
 
-<p>The executable application “DoE.exe” will install the open-source software R, together with all the packages necessary for running the software named “DoE” that we will use during the exercises.</p>
-<div id="preliminary-note" class="section level2">
-<h2>1. Preliminary note</h2>
-<p>The executable version of the DoE.exe program is in beta version. We therefore ask you to try it and report any bugs or errors (for example, the lack of a library, etc …) to the following addresses: <a href="mailto:giorgio.marrubini@unipv.it">Giorgio Marrubini</a>, <a href="mailto:camillonelzin@gmail.com">Camillo Melzi</a>.</p>
-<p>Regrettably, the executable currently only works for Windows.</p>
+<hr />
+<hr />
+<div id="utenti-mac" class="section level2">
+<h2>Utenti <strong>Mac</strong></h2>
+<div id="installare-doe" class="section level3">
+<h3>Installare <strong>DoE</strong></h3>
+<p>Per chi ha già installato <strong>R</strong> e <strong>RStudio</strong> andare al punto 3.</p>
+<ol style="list-style-type: decimal">
+<li><p>Scaricare ed istallare <a href="https://cran.rstudio.com/" title="Download and Install R">R</a></p></li>
+<li><p>Scaricare ed installare <a href="https://rstudio.com/products/rstudio/download/#download" title="RStudio Desktop">RStudio</a></p></li>
+<li><p>Scaricare la cartelletta <a href="https://drive.google.com/file/d/1g_bzvnx8kOsWzetetHqThAHC5EGQ1EEe/view?usp=sharing" title="DoE.zip">DoE</a> e dezipparla</p></li>
+<li><p>Per installare i pacchetti necessari al funzionamento dell’applicativo <strong>DoE</strong> aprire la cartelletta dezippata <strong>DoE</strong>, aprire il file <strong>Pacchetti.R</strong> con <strong>RStudio</strong> (doppio click sul file). Quindi cliccare sul tasto <em>Source</em> (ci vorrà qualche minuto).<img src="Figure/RStidio1.png" width="683" /></p></li>
+</ol>
 </div>
-<div id="download-the-executable" class="section level2">
-<h2>2. Download the executable</h2>
-<p>Download the file <a href="https://drive.google.com/file/d/1jZdLZMs4vtvn8Btkr2vMmCEums4O95GC/view?usp=sharing">setup_DoE.exe</a> then run the executable by mouse double-click on the icon:</p>
-<p><img src="Figure/doe_exe.png" width="85" /></p>
-<p>If necessary, allow installing apps by unknown author/source, then accept the “License Agreement” and click on the <em>Next</em> button. The software that we are providing for free is made in-house. No antivirus collected information on it as of today. Therefore antivirus software will warn you about the dangers of installing software from unknown sources.</p>
-<p><img src="Figure/fig1.png" width="420" /></p>
-<p>Click the Next button again in the window</p>
-<p><img src="Figure/fig2.png" width="420" /></p>
-<p>Select the directory to install the program (I recommend keeping C: \ Warning !! do not use the Program Files or Program Files (x86) directories).</p>
-<p>Click on the Next button in the next window</p>
-<p><img src="Figure/fig3.png" width="420" /></p>
-<p>Choose whether to create a shortcut to the application on the desktop (recommended)</p>
-<p><img src="Figure/fig4.png" width="420" /></p>
-<p>Then press the Install button and then Next in the subsequent windows</p>
-<p><img src="Figure/fig5.png" width="420" /></p>
-<p><img src="Figure/fig6.png" width="420" /></p>
-<p>Finally, click on the Finish button (I recommend leaving the flag on Launch DoE )</p>
-<p><img src="Figure/fig7.png" width="420" /></p>
-<p>Once the necessary libraries have been loaded (the first time it may take some time), the application opens.</p>
-<p>On the desktop (if you have chosen to create a shortcut to the application), there should be the shortcut icon</p>
-<p><img src="Figure/fig8.png" width="100" /></p>
+<div id="avviare-doe" class="section level3">
+<h3>Avviare DoE</h3>
+<p>Per avviare l’applicativo è sufficiente aprire <strong>RStudio</strong> (cliccando su un file <em>.R</em> come ad esempio <em>Pacchetti.R</em>) digitare</p>
+<p><em>shiny::runApp()</em></p>
+<p>nella console e quindi tasto <strong>Enter</strong>.</p>
+<p>Per semplificare è possibile creare un progetto dedicato andando nel menù <em>File/New Project di <strong>RStudio</strong></em>. Scegliere <strong>Existing Directory</strong> e selezionare la cartella <strong>DoE</strong> in cui sono stati dezippati tutti i file.</p>
+<p>Per avviare <strong>DoE</strong> basta cliccare sul file <em>.Rproj</em> che si è creato nella cartella <strong>DoE</strong> e proceedere come sopra. Si consiglia di creare un collegamento a tale file sul desktop.</p>
 </div>
-<div id="uninstall-application" class="section level2">
-<h2>3. Uninstall application</h2>
-<p>DoE can be uninstalled like any other Windows application. Alternatively, to uninstall in the DoE folder created in C: \ (or in the directory chosen for installation), there is a unis000.exe icon. Double click on the icon and uninstallation starts. Once DoE has been unistalled, a message similar to the one reported below should appear.</p>
-<p><img src="Figure/fig9.png" /></p>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -460,32 +365,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = false;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

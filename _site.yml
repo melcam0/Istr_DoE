@@ -13,7 +13,8 @@ navbar:
         href: doe_en.html
     - text: "CAT"
       href: http://gruppochemiometria.it/index.php/software
-
+    - text: "MAC"
+      href: mac.html
       
 
 output:
