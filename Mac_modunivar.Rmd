@@ -4,7 +4,7 @@
 
 ## Utenti **Mac**
 
-### Installare **DoE**
+### Installare **MODUNIVAR**
 
 Per chi ha già installato **R** e **RStudio** andare al punto 3.
 
@@ -12,9 +12,11 @@ Per chi ha già installato **R** e **RStudio** andare al punto 3.
 
 2.  Scaricare ed installare [RStudio](https://rstudio.com/products/rstudio/download/#download "RStudio Desktop")
 
-3.  Scaricare la cartelletta [DoE](https://drive.google.com/file/d/1g_bzvnx8kOsWzetetHqThAHC5EGQ1EEe/view?usp=sharing "DoE.zip") e dezipparla
+3.  Scaricare la cartelletta [MODUNIVAR](https://drive.google.com/file/d/13sANmrfZTycskFTaaNvHY2uuXCc3HM6H/view?usp=sharing "Modunivar.zip") e dezipparla
 
-4.  Per installare i pacchetti necessari al funzionamento dell'applicativo **DoE** aprire la cartelletta dezippata **DoE**, aprire il file **Pacchetti.R** con **RStudio** (doppio click sul file). Quindi cliccare sul tasto *Source* (ci vorrà qualche minuto).![](Figure/RStidio1.png){width="683"}
+4.  Per installare i pacchetti necessari al funzionamento dell'applicativo **MODUNIVAR** aprire la cartelletta dezippata **Modunivar**, aprire il file **Pacchetti.R** con **RStudio** (doppio click sul file). Quindi cliccare sul tasto *Source* (ci vorrà qualche minuto).
+  
+![](Figure/RStidio2.png){width="683"}
 
 ### Avviare DoE
 
@@ -26,4 +28,4 @@ nella console e quindi tasto **Enter**.
 
 Per semplificare è possibile creare un progetto dedicato andando nel menù *File/New Project di **RStudio***. Scegliere **Existing Directory** e selezionare la cartella **DoE** in cui sono stati dezippati tutti i file.
 
-Per avviare **DoE** basta cliccare sul file *.Rproj* che si è creato nella cartella **DoE** e proceedere come sopra. Si consiglia di creare un collegamento a tale file sul desktop.
+Per avviare **MODUNIVAR** basta cliccare sul file *.Rproj* che si è creato nella cartella **MODUNIVAR** e proceedere come sopra. Si consiglia di creare un collegamento a tale file sul desktop.
