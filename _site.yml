@@ -1,4 +1,4 @@
-name: "Doe_setup"
+name: "SetUp"
 output_dir: "."
 navbar:
   title: "App setUp"
