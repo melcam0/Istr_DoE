@@ -16,13 +16,17 @@ navbar:
     # - text: "MAC"
     #   href: mac.html
       
-
 output:
    html_document:
     theme: united
-    #theme: flatly
+    css: book.css
+    
+    # theme: flatly
     #theme: cerulean
+    
     highlight: pygments
+    
+
 
 
     
