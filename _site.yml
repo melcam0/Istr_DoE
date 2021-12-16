@@ -11,6 +11,8 @@ navbar:
         href: doe_ita.html
       - text: "En"
         href: doe_en.html
+    - text: "PCA"
+      href: pca_ita.html
     - text: "CAT"
       href: http://gruppochemiometria.it/index.php/software
     # - text: "MAC"
