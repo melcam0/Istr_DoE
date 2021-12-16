@@ -20,7 +20,7 @@ L'eseguibile, per ora, funziona perfettamente solo in Windows. Per gli utenti Ma
 
 ## 2. Scaricare l'eseguibile
 
-Scaricare il file [setup_MODUNIVAR.exe](https://drive.google.com/file/d/1J-zlCPBWHfnxt9KN0lpXaGWWMI9XvNLN/view?usp=sharing) ed avviare l'eseguibile con doppio click sull'icona
+Scaricare il file <a href="https://drive.google.com/file/d/1J-zlCPBWHfnxt9KN0lpXaGWWMI9XvNLN/view?usp=sharing" target="_blank">setup_MODUNIVAR.exe</a> ed avviare l'eseguibile con doppio click sull'icona
 
 ![](Figure/modunivar_exe.png){width="85"}
 
