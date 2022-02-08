@@ -14,7 +14,7 @@ L'applicazione eseguibile "MODUNIVAR.exe" installerà il software open-source R,
 
 ## 1. Nota preliminare
 
-La versione eseguibile del programma MODUNIVAR.exe è in versione beta. Vi preghiamo quindi di provarlo e di segnalare eventuali bug o errori (ad esempio, mancanza di libreria, ecc...) ai seguenti indirizzi: [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it), [Camillo Melzi](mailto:camillonelzin@gmail.com).
+La versione eseguibile del programma MODUNIVAR.exe è in versione beta. Vi preghiamo quindi di provarlo e di segnalare eventuali bug o errori (ad esempio, mancanza di libreria, ecc...) ai seguenti indirizzi: [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it), [Camillo Melzi](mailto:camillomelzi@gmail.com).
 
 L'eseguibile, per ora, funziona perfettamente solo in Windows. Per gli utenti Mac vi chiediamo di contattare [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it) per avere una guida personalizzata all'installazione.
 

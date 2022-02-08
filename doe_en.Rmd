@@ -13,7 +13,7 @@ The executable application "DoE.exe" will install the open-source software R, to
 
 ## 1. Preliminary note
 
-The executable version of the DoE.exe program is in beta version. We therefore ask you to try it and report any bugs or errors (for example, the lack of a library, etc ...) to the following addresses: [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it), [Camillo Melzi](mailto:camillonelzin@gmail.com).
+The executable version of the DoE.exe program is in beta version. We therefore ask you to try it and report any bugs or errors (for example, the lack of a library, etc ...) to the following addresses: [Giorgio Marrubini](mailto:giorgio.marrubini@unipv.it), [Camillo Melzi](mailto:camillomelzi@gmail.com).
 
 Regrettably, the executable currently only works for Windows.
 
