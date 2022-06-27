@@ -2,6 +2,8 @@
 title: 'Scaricare il software "PCA"'
 output:
    html_document:
+    includes:
+      in_header: pca_header.html
     theme: united
     highlight: pygments
     #theme: cerulean

@@ -2,6 +2,8 @@
 title: 'Download the software named "DoE"'
 output:
    html_document:
+    includes:
+      in_header: doe_header.html
     theme: united
     highlight: pygments
     toc: true

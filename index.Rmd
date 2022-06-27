@@ -3,11 +3,13 @@ title: <span style="color:white">App setUp</span>
 output:
    html_document:
     theme: united
+    includes:
+      in_header: home_header.html
 ---
 
 <p align="center">
 
-<br> <br> <br> <br> <br> <br> <br> <img src="Figure/Immagine.png"/>
+<img src="Figure/Immagine.png"/>
 
 </p>
 
