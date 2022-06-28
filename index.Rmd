@@ -7,10 +7,38 @@ output:
       in_header: home_header.html
 ---
 
+<!-- <p align="center"> -->
+
+<!-- <img src="Figure/Immagine.png"/> -->
+
+<!-- </p> -->
+
+<!-- <html> -->
+
+<!-- <body> -->
+
+<!-- <img src="Figure/Immagine.png" alt="Imamgine" usemap="#immagine" > -->
+
+<!-- <map name="immagine"> -->
+
+<!--   <area shape="rect" coords="0,0,180,180" alt="Modunivar" href="https://istrsetup.netlify.app/modunivar_ita.html"> -->
+
+<!--   <area shape="rect" coords="630,0,850,180" alt="DoE" href="https://istrsetup.netlify.app/doe_ita.html"> -->
+
+<!-- </map> -->
+
+<!-- </body> -->
+
+<!-- </html> -->
+
+[![DoE](Figure/Modunivar.png#left){width=20%}](https://istrsetup.netlify.app/modunivar_ita.html)
+[![DoE](Figure/DoE.png#right){width=20%}](https://istrsetup.netlify.app/doe_ita.html)
+
 <p align="center">
 
-<img src="Figure/Immagine.png"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-</p>
-
-
+</p>      
+         
+[![DoE](Figure/PCA.png#left){width=20%}](https://istrsetup.netlify.app/pca_ita.html)
+[![DoE](Figure/CAT.png#right){width=20%}](http://gruppochemiometria.it/index.php/software)

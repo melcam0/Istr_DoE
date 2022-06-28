@@ -33,7 +33,16 @@
 
 /* main */
 
-
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
 
 /* link effects */
 .book .book-body .page-wrapper .page-inner section.normal a {
