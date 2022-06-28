@@ -22,7 +22,7 @@ Purtroppo, l'eseguibile attualmente funziona solo per Windows.
 
 ## 2. Scaricare l'eseguibile
 
-Scaricare il file <a href="https://drive.google.com/open?id=1IEVIbt_LWVE6Ry-XRDBGt_r6FbVQbAZJ&authuser=camillomelzi%40gmail.com&usp=drive_fs" target="_blank">setup\_PCA.exe</a> ed avviare l'eseguibile con doppio click sull'icona
+Scaricare il file <a href="https://drive.google.com/file/d/17F8EeXDlqF_DmorRDl_GUvhLyU8Ykv7c/view?usp=sharing" target="_blank">setup\_PCA.exe</a> ed avviare l'eseguibile con doppio click sull'icona
 
 ![](Figure/pca_exe.png){width="85"}
 

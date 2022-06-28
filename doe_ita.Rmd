@@ -22,7 +22,7 @@ Purtroppo, l'eseguibile attualmente funziona solo per Windows.
 
 ## 2. Scaricare l'eseguibile
 
-Scaricare il file <a href="https://drive.google.com/file/d/1jZdLZMs4vtvn8Btkr2vMmCEums4O95GC/view?usp=sharing" target="_blank">setup\_DoE.exe</a> ed avviare l'eseguibile con doppio click sull'icona
+Scaricare il file <a href="https://drive.google.com/file/d/1779uwgGjAYIz5gPzA6AIQY-6aDYx3zSu/view?usp=sharing" target="_blank">setup\_DoE.exe</a> ed avviare l'eseguibile con doppio click sull'icona
 
 ![](Figure/doe_exe.png){width="85"}
 
